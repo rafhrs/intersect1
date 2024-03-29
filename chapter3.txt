@@ -1,0 +1,1 @@
+How come people prefer vim over nano?
